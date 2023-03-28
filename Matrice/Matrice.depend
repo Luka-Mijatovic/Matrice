@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1679997693 source:d:\user\matrice\main.cpp
+	<iostream>
+	<cstdlib>
+
+1679997701 source:d:\user\matrice\mmnozenje.cpp
+
+1679997725 source:d:\user\matrice\mskalar.cpp
+	<iostream>
+
